@@ -27,13 +27,13 @@ inventory_mvp/
 - Streamlit (dashboard)
 - Scikit-learn (optional: forecasting demand)
 
-## Example Use Case
-- Upload historical inventory + sales data.
+## Example Use Case  
+- Upload historical inventory + sales data.  
 
-- Dashboard displays:
-  $3M tied up in excess stock across 4 years.
-  35% projected stockout reduction with dynamic reorder policy.
-  12–16% YoY liquidity improvement from optimized cycles.
+- Dashboard displays:  
+  - **$3M** tied up in excess stock across 4 years  
+  - **35%** projected stockout reduction with dynamic reorder policy  
+  - **12–16%** YoY liquidity improvement from optimized cycles  
 
 ## Future work
 - Integrate with live ERP/PoS systems.
